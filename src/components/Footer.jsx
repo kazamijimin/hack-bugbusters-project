@@ -73,7 +73,7 @@ const ComponentName = () => {
                     </li>
 
                     <li>
-                        <a href="#" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Meet Our Team </a>
+                        <a href="/team" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Meet Our Team </a>
                     </li>
                 </ul>
             </div>
